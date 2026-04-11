@@ -1,0 +1,25 @@
+.root {
+    -fx-background-color: #1e1e2e;
+    -fx-font-family: "Segoe UI";
+}
+
+.label {
+    -fx-text-fill: #cdd6f4;
+    -fx-font-size: 13px;
+}
+
+.button {
+    -fx-background-color: #313244;
+    -fx-text-fill: #cdd6f4;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45475a;
+}
+
+.separator {
+    -fx-background-color: #45475a;
+}

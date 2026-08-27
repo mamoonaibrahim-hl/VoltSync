@@ -1,0 +1,21 @@
+╔══════════════════════════════════════════════════════════╗
+║           VoltSync Pro — Session Analytics Report        ║
+╠══════════════════════════════════════════════════════════╣
+║  Generated     : 2026-08-27 18:31:42                    ║
+║  Total Cycles  : 3                                      ║
+║  Total Demand  : 6043.7                               kW ║
+║  Total Supplied: 6510.8                               kW ║
+║  Grid Efficiency: 107.7                               %  ║
+║  Overload Events: 0                                     ║
+║  Load Shed Events:0                                     ║
+╠══════════════════════════════════════════════════════════╣
+║  Per-Sector Summary                                      ║
+╠══════════════════════════════════════════════════════════╣
+  [Central Hospital] Allocations: 3 | Avg Received: 282.3 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Fire Station Alpha] Allocations: 3 | Avg Received: 71.9 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Industrial Zone A] Allocations: 3 | Avg Received: 390.1 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Water Treatment] Allocations: 3 | Avg Received: 200.5 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Downtown Commercial] Allocations: 3 | Avg Received: 370.3 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Residential North] Allocations: 3 | Avg Received: 342.9 kW | Efficiency: 100.0% | Shortfalls: 0
+  [Residential South] Allocations: 3 | Avg Received: 356.5 kW | Efficiency: 100.0% | Shortfalls: 0
+╚══════════════════════════════════════════════════════════╝
